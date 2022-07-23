@@ -1,0 +1,8 @@
+const myAge = 21; //My Age.
+let earlyYears = 2; //early age of dogs.
+earlyYears = earlyYears * 10.5; //changes the value of earlyYear.
+let laterYears = myAge - 2;
+laterYears *= 4;
+// console.log(`${earlyYears} ${laterYears}`);
+const myAgeInDogYears = earlyYears + laterYears;
+console.log(myAgeInDogYears);
