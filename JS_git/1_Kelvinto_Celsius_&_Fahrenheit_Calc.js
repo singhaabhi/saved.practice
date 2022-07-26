@@ -1,17 +1,15 @@
-// const kelvin = 0;
-// //assign (293) to kelvin
+const kelvin = 0;
+//assign (293) to kelvin
 
-// const celsius = kelvin - 273;
-// //convert kelvin to celsius
+const celsius = kelvin - 273;
+//convert kelvin to celsius
 
-// let fahrenheit = celsius * (9 / 5) + 32;
-// // convert celsius to fahrenheit
+let fahrenheit = celsius * (9 / 5) + 32;
+// convert celsius to fahrenheit
 
-// fahrenheit = Math.floor(fahrenheit);
-// //convert decimal to whole
+fahrenheit = Math.floor(fahrenheit);
+//convert decimal to whole
 
-// console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
 
 
-
-// Write your code below
