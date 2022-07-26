@@ -1,4 +1,3 @@
 # singhaabhi.github.io
 
-
-If you love tech, anime, being a lil nerdy, let's make babies.
+console.log("if you love anime and nerdy stuffs, lets make babies.")
